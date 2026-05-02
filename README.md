@@ -30,7 +30,7 @@ Microsoft Excel
 
 Dashboard Preview
 
-Call Centre Dashboard.png
+https://github.com/HIRI7/Customer--support-performance-dashboard/blob/1e676217cda5d3663de8ef580f6fe337499c1b68/Call%20Centre%20Dashboard.png
 
 
 
