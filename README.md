@@ -29,6 +29,7 @@ Microsoft Excel
 4) Detected patterns affecting overall service efficiency
 
 Dashboard Preview
+Call Centre Dashboard.png
 
 
 
