@@ -34,6 +34,9 @@ Dashboard Preview
 
 https://github.com/HIRI7/Customer--support-performance-dashboard/blob/b6c020eaf9b4f85154ad6666776c0b952e833122/Call%20Centre%20Dashboard.png
 
+Acknowledgement-
+Project layout and dataset inspired by Chandoo.org Excel dashboard tutorials.
+
 
 
 
